@@ -1,1 +1,3 @@
 # nixosConfig
+
+## Demo config. 
